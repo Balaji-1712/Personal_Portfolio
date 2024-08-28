@@ -46,7 +46,6 @@ function Resume() {
 
     return (
         <div className='container-fluid p-0 position-relative bg-light'>
-            {/* Navigation Links */}
             <div className='position-absolute top-0 end-0 d-flex p-3'>
                 <Link to="/" className='btn btn-primary rounded-pill me-2' style={{ backgroundColor: '#007bff', opacity: 0.7 }}>
                     Home
@@ -59,7 +58,6 @@ function Resume() {
                 </Link>
             </div>
 
-            {/* Education Section */}
             <div className='container-fluid pt-4'>
                 <h2 className='mb-4 text-dark' style={{ transition: 'box-shadow 0.3s', cursor: 'pointer' }}
                     onMouseOver={(e) => e.currentTarget.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.2)'}
@@ -107,7 +105,6 @@ function Resume() {
                 </div>
             </div>
 
-            {/* Skills Section */}
             <div className='container-fluid'>
                 <h2 className='mb-4 text-dark' style={{ transition: 'box-shadow 0.3s', cursor: 'pointer' }}
                     onMouseOver={(e) => e.currentTarget.style.boxShadow = '0 4px 8px rgba(0, 0, 0, 0.2)'}
