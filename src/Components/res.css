@@ -1,0 +1,26 @@
+.timeline {
+    padding-left: 40px;
+    position: relative;
+}
+
+.timeline-line {
+    width: 5px;
+    height: 100%;
+    left: 20px;
+    top: 0;
+}
+
+.timeline-item {
+    align-items: flex-start;
+}
+
+.timeline-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.timeline-icon-glow {
+    width: 30px;
+    height: 30px;
+    box-shadow: 0 0 10px 5px rgba(255, 193, 7, 0.7); /* Glowing effect */
+}
