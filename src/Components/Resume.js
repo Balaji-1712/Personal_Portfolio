@@ -35,7 +35,7 @@ function Resume() {
         {
             title: "Runners in 2024 InterDepartment Cricket Tournament",
             description: "Lost by 1 Run",
-            image: "/images/cricket1.jpg"
+            image: "/images/cric.jpg"
         },
         {
             title: "Gaming Youtube Channel",
