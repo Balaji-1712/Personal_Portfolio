@@ -32,7 +32,7 @@ function Home() {
             </div>
 
             <div className='container-fluid border border-2 border-dark d-flex flex-column justify-content-center align-items-center' style={{ height: '500px', backgroundColor: 'peachpuff' }}>
-                <img src='/images/photo.jpg' alt="balaji" className='img-fluid rounded-circle border border-3 border-dark' style={{ objectFit: 'contain', maxHeight: '80%', maxWidth: '80%', transition: 'transform 0.2s', cursor: 'pointer' }}
+                <img src='/images/photo.jpg' alt="balaji" className='img-fluid rounded-circle border border-3 border-dark' style={{ objectFit: 'contain', maxHeight: '70%', maxWidth: '70%', transition: 'transform 0.2s', cursor: 'pointer' }}
                     onMouseOver={(e) => e.currentTarget.style.transform = 'scale(1.05)'}
                     onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'} />
                 <div className='text-center mt-3'>

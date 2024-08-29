@@ -25,7 +25,7 @@ function Resume() {
         {
             title: "2023 Inter Department Cricket Tournament Winner",
             description: "IT team won their first title 'CHAMPIONS' in InterDepartment cricket Tournament",
-            image: "/images/winner.JPG"
+            image: "/images/winner.jpg"
         },
         {
             title: "Most Runs in 2024 Inter Department Cricket Tournament",
