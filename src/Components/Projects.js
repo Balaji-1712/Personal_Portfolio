@@ -20,7 +20,7 @@ function Projects() {
             description: "Created a TensorFlow model to detect diseases of paddy crops",
             status: "completed",
             image: "/images/plant.jpg",
-            repoUrl: ""  
+            repoUrl: "https://github.com/Balaji-1712/Paddy_disease_detector"  
         }
     ];
 
