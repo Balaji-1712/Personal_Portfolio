@@ -37,7 +37,7 @@ function Home() {
                     onMouseOut={(e) => e.currentTarget.style.transform = 'scale(1)'} />
                 <div className='text-center mt-3'>
                     <h3>Balaji K</h3>
-                    <h5>Final Year Student</h5>
+                    <h5>B.Tech Graduate</h5>
                 </div>
             </div>
 
@@ -92,7 +92,7 @@ function Home() {
                             About
                         </h2>
                         <p className='mt-3' style={{ fontSize: '0.5cm' }}>
-                            I am currently pursuing a Bachelor's degree in Information Technology at Thiagarajar College of Engineering. My academic journey has equipped me with a strong foundation in various software technologies, and I have developed a keen interest in both front-end development and mobile application development.
+                            I Completed my Bachelor's degree in Information Technology at Thiagarajar College of Engineering. My academic journey has equipped me with a strong foundation in various software technologies, and I have developed a keen interest in both front-end development and mobile application development.
                         </p>
                         <h2 className='rounded-pill bg-warning text-light px-3 py-2'
                             style={{ display: 'inline-block', fontSize: '1.5rem', opacity: 0.7, transition: 'box-shadow 0.3s', cursor: 'pointer' }}
