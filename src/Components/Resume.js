@@ -41,6 +41,11 @@ function Resume() {
             title: "Gaming Youtube Channel",
             description: "Successfully running a gaming youtube channel with 270 subscribers",
             image: "/images/yt.jpg"
+        },
+        {
+            title: "2025 Inter Department Cricket Tournament Winner",
+            description: "IT team won their Second title in InterDepartment cricket Tournament",
+            image: "/images/cup2.jpg"
         }
     ];
 
@@ -75,7 +80,7 @@ function Resume() {
                             <h4>Thiagarajar College Of Engineering</h4>
                             <span className="text-warning">2021 — 2025</span>
                             <p>Bachelor of Technology - Information Technology</p>
-                            <p>Grade: 7.60 CGPA</p>
+                            <p>Grade: 7.72 CGPA</p>
                         </div>
                     </div>
 
