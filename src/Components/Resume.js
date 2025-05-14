@@ -134,7 +134,7 @@ function Resume() {
             <div className='container-fluid mt-5 pb-5'>
                 <h2 className='mb-4 text-dark'>My Resume</h2>
                 <div className="text-center">
-                    <a href="/files/bal.pdf" download className='btn btn-lg btn-outline-primary' style={{ animation: 'glow 1s infinite alternate' }}>
+                    <a href="/files/K_Balaji.pdf" download className='btn btn-lg btn-outline-primary' style={{ animation: 'glow 1s infinite alternate' }}>
                         <i className="bi bi-download me-2"></i>Download Resume
                     </a>
                 </div>
